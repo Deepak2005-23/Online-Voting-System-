@@ -1,0 +1,13 @@
+{
+  "name": "online-voting-backend",
+  "version": "1.0.0",
+  "description": "- Java 17+ - Maven 3.8+ - MySQL 8+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
